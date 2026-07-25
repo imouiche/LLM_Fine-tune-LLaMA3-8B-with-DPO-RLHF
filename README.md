@@ -78,7 +78,7 @@ Tested on Google Colab with a single GPU. Precision is set to **fp16** rather th
 
 ## Related Work
 
-- [`Gate-DPO`](https://arxiv.org/abs/2605.02626); implements the SFT → DPO two-stage pipeline referenced above, applied to *(model/dataset placeholder)*.
+- [`Gate-DPO`](https://arxiv.org/abs/2605.02626); implements the SFT → DPO two-stage pipeline referenced above.
 
 ---
 
